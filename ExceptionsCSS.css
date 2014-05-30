@@ -1,0 +1,89 @@
+/* CSS Document */
+.mainMenu {
+	background-color:#E3E1C3;
+	width: 60%;
+	min-height: 600px;
+	height:	auto;
+	margin: 20px auto;
+	border-radius:15px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+.tableList {
+	background-color:#E3E1C3;
+	min-width: 75%;
+	max-width: 95%;
+	width: auto;
+	min-height: 600px;
+	height:	auto;
+	margin: 20px auto;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#instructions {
+	display: inline-block;
+	color:#990000;
+	font-size: 20px;
+	text-align:center;
+	width: 100%;
+}
+
+#menuHeader {
+	font-size:30px;
+	text-align:center;
+	color:#990000;
+}
+
+#selectionHeaderLabels {
+	font-size: 18px;
+	color:#990000;
+	text-align:center;
+}
+
+.buttonHolder {
+	width: 80%;
+	margin: 05px auto;
+}
+
+.labelLayout {
+	width: 76.2mm;
+	margin: 05px auto;
+	height: 25.4mm;
+}
+
+#updateButton {
+	text-align:center;
+}
+
+#schoolYear {
+	display: inline-block;
+	vertical-align:top;
+	float: right;
+	font-weight:bold;
+	font-size:18px;
+}
+
+#buttonCells input[type=submit] {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	margin-top:10px; 
+	width:400px; 
+	height:40px
+}
+
+#readOnly {
+	background-color:#CCCCCC;
+}
+
+.labelsTable {
+	width: 80%;
+	margin: 0px auto;
+	font-size:14px;
+}
+
+.previewTable {
+	width: 70%;
+	margin: 20px auto;
+	font-size:16px;
+	height:	auto;
+}

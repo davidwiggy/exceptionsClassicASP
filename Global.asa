@@ -1,0 +1,13 @@
+<script language="vbscript" runat="server">
+
+Sub Application_OnStart
+
+	application("SQL")
+	application("page") 
+	application("studentId")
+	application("labelDate")
+	application("resSchLoaded")
+
+End Sub
+
+</script>
